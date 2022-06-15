@@ -1,0 +1,12 @@
+.AboutDo{
+	display: flex;
+	flex-direction: column;
+}
+.AboutDo_main{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+.AboutDo_info1{
+	margin-top: 50px;
+}

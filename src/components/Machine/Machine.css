@@ -1,0 +1,47 @@
+.Machine_info{
+	font-family: 'Gilroy';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 150%;
+    text-align: center;
+		color: #000000;
+}
+.Machine_info{
+	width: 1168px;
+	margin: auto;
+  margin-bottom: 60px;
+}
+.DoDo1{
+	width: 1169px;
+	height: 326px;
+	margin: auto;
+	background-image: url('../../assets/images/DoDo1.png');
+	background-size: 100%;
+	margin-bottom: 75px;
+}
+.DoDo_arrow1 button{
+	width: 36px;
+	height: 36px;
+	
+	border:2px solid #ffffff;
+border-radius: 30px;
+}
+.DoDo_wrapper{
+	display: flex;
+	justify-content: space-between;
+	padding-top: 145px;
+}
+.DoDo_info span{
+	font-family: 'Gilroy';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 24px;
+		line-height: 28px;
+		color: #FFFFFF;
+}
+.DoDo_info{
+	display: flex;
+	justify-content: center;
+padding-top: 102px;
+}

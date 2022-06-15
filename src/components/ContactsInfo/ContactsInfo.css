@@ -1,0 +1,31 @@
+.Contacts_main{
+	margin-top: 60px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.Contacts_logo1 p{
+	font-family: 'Gilroy';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 36px;
+		line-height: 42px;
+	  color: #000000;
+		margin-bottom: 52px;
+}
+.Contacts_logo2 span{
+	font-family: 'Gilroy';
+		font-weight: 400;
+		font-size: 24px;
+		color: #A4A4A4;
+	
+}
+.Contact_wrapper{
+	margin-bottom: 8px;
+}
+.Contacts_logo2 p{
+	margin-bottom: 10px;
+}
+.Contacts_logo2{
+	margin-bottom: 36px;
+	width: 282px;
+}

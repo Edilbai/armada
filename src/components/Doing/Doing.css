@@ -1,0 +1,13 @@
+.DoImage{
+	display: flex;
+	justify-content: center;
+	
+}
+.DoImage div{
+	margin-right: 32px;
+}
+.Doing{
+	margin: 60px auto 60px auto;
+	/* display: flex;
+	justify-content: center; */
+}

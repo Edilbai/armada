@@ -1,0 +1,11 @@
+.AbCom_wrapper{
+	width: 1168px;
+	height: 400px;
+	background-image: url("../../assets/images/AboutCom1.png");
+	margin:auto;
+}
+.AbCom_info1{
+	width: 1169px;
+	margin: auto;
+	text-align: center;
+}

@@ -1,0 +1,97 @@
+.pop{
+	font:Gilroy;
+}
+.Portf_info{
+	display: flex;
+	flex-wrap: wrap;
+	width: 568px;
+	/* margin-right: 32px; */
+}
+.Portf_wrapper{
+	display: flex;
+	justify-content: center;
+	margin: 37px 0 61px 0;
+}
+.Portf_card1{
+background-image: url('../../assets/images/Port1.png');
+margin:0 8px 8px 8px;
+width: 568px;
+	height: 564px;
+}
+.Portf_card2 {
+	background-image: url('../../assets/images/Port2.png');
+	margin:0 8px 8px 8px;
+	width: 268px;
+		height: 274px;
+}
+.Portf_card3 {
+	background-image: url('../../assets/images/Port3.png');
+	margin:0 8px 8px 8px;
+	width: 268px;
+		height: 274px;
+}
+.Portf_card4 {
+	background-image: url('../../assets/images/Port4.png');
+	margin:8px 8px 8px 8px;
+	width: 568px;
+		height: 274px;
+}
+.Portf_card5 {
+	background-image: url('../../assets/images/Port5.png');
+	margin:0 8px 8px 8px;
+	width: 568px;
+		height: 274px;
+}
+.Portf_card6 {
+	background-image: url('../../assets/images/Port6.png');
+	margin:0 8px 8px 8px;
+	width: 268px;
+		height: 274px;
+}
+.Portf_card7 {
+	background-image: url('../../assets/images/Port7.png');
+	margin:0 8px 8px 8px;
+	width: 268px;
+		height: 274px;
+}
+.Portf_card8 {
+	background-image: url('../../assets/images/Port8.png');
+	margin:0 8px 8px 8px;
+	width: 568px;
+		height: 564px;
+}
+.Portf_info span{
+	font-family: 'Montserrat';
+		font-style: normal;
+		font-weight: 700;
+		font-size: 24px;
+		line-height: 29px;
+		/* margin: 88% 0 0 0; */
+		color: #FFFFFF;
+  display: flex;
+	align-items: flex-end;
+}
+.Portf_card2 span{
+margin-top: 240px;
+}
+.Portf_card3 span {
+margin-top: 240px;
+}
+.Portf_card6 span {
+margin-top: 240px;
+}
+.Portf_card7 span {
+margin-top: 240px;	
+}
+.Portf_card1 span {
+margin-top: 530px;
+}
+.Portf_card8 span {
+margin-top: 530px;
+}
+.Portf_card4 span {
+margin-top: 240px;
+}
+.Portf_card5 span {
+margin-top: 240px;
+}
